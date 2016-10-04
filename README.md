@@ -14,7 +14,7 @@ An AI is added, thanks to [DJBen](https://github.com/DJBen)! Tap "Hint" to show 
 
 Thanks to [ov3y](https://github.com/ov3y/2048-AI)'s Javascript version that gave me (DJBen, that is) inspiration.
 
-### Issues and pending improvements
+### Issues and pending 
 
 Currently the searching depth is 2 and it fails sometimes. You can increase the number to 3 or more by changing the return value of `- (NSInteger)maximumSearchingDepth` in `M2GlobalState+AI.h`.
 
