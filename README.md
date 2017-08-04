@@ -1,3 +1,5 @@
+iOS [![BuddyBuild](https://dashboard.buddybuild.com/api/statusImage?appID=58a4d0313af4a201008bdcc4&branch=master&build=latest)](https://dashboard.buddybuild.com/apps/58a4d0313af4a201008bdcc4/build/latest?branch=master) Android [![BuddyBuild](https://dashboard.buddybuild.com/api/statusImage?appID=58a4d0313af4a201008bdcc4&branch=master&build=latest)](https://dashboard.buddybuild.com/apps/58a4d0313af4a201008bdcc4/build/latest?branch=master)
+
 # Richie-2048
 
 This is a derivative of the iOS version of the game 2048. In the very unlikely case that you don't know what it is, you can check it out [here](https://github.com/gabrielecirulli/2048).
@@ -71,3 +73,4 @@ If you'd like to fork and make your own version, that's also great! Feel free to
 If you find the source code somewhat useful, all I ask is to download it from the [App Store](https://itunes.apple.com/us/app/2048-and-more!/id848859070?ls=1&mt=8), so I know that *someone* has seen it. Relax: It is free; it does not have any ads or weird stuff; it does not send you push notifications to ask you to go back and play it.
 
 You may also consider to [donate](https://github.com/gabrielecirulli/2048) to the maker of the original 2048 if you'd like, of course. (:
+aaa
